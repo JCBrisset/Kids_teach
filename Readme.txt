@@ -1,2 +1,2 @@
-here is the files for the BL training to MNIST classification
+here are the files for the BL' kids training to MNIST classification
 
